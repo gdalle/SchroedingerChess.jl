@@ -3,6 +3,14 @@ uuid = "b4676d4e-ed7b-4763-bdd8-450e08d2f354"
 authors = ["Guillaume Dalle <22795598+gdalle@users.noreply.github.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Chess = "717200cc-f167-4fd3-b4bf-b5e480529844"
+ConstraintSolver = "e0e52ebd-5523-408d-9ca3-7641f1cd1405"
+GameZero = "9da27670-f782-11e9-1da1-f53579315bfe"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+
 [compat]
 julia = "1.6"
 
